@@ -1,7 +1,7 @@
 #  PROGRAM OBLICZAJĄCY PIERWIASTKI RÓWNANIA KWADRATOWEGO 
 
-## Program pozwaljący obliczenie pierwstków równania kwadratowego
-### technologia
+## Program pozwalający obliczenie pierwstków równania kwadratowego
+### Technologia
 
 Projekt został stworzony w:
 
@@ -11,6 +11,8 @@ Język programowania:
 
 * C#
 
+# Schemat algorytmu obliczającego pierwiastki
 
+![Schemat algorytmu](schemat.jpg)
 
 
