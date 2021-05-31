@@ -1,6 +1,6 @@
-#  PROGRAM OBLICZAJĄCY PIERWIASTKI RÓWNANIA KWADRATOWEGO 
+# :small_red_triangle: PROGRAM OBLICZAJĄCY PIERWIASTKI RÓWNANIA KWADRATOWEGO 
 
-## Program pozwalający obliczenie pierwstków równania kwadratowego
+## Program pozwalający na obliczenie pierwstków równania kwadratowego
 ### Technologia
 
 Projekt został stworzony w:
